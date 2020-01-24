@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AsyncSaveLoad",
+	"Description": "Asynchronous save and load.",
+	"Category": "SaveLoad",
+	"CreatedBy": "alwei",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AsyncSaveLoad",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"XboxOne",
+				"PS4",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}
